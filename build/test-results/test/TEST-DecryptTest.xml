@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DecryptTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-13T15:38:55" hostname="Aringoprobook" time="0.023">
+  <properties/>
+  <testcase name="Decryption_savesMessage_String()" classname="DecryptTest" time="0.022"/>
+  <testcase name="Decryption_savesShiftValue_Integer()" classname="DecryptTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
